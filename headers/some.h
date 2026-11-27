@@ -1,4 +1,0 @@
-#ifndef SOME_HEADERS_H
-#define SOME_HEADERS_H
-
-#endif SOME_HEADERS_H
